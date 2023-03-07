@@ -1,22 +1,23 @@
-# DeepLearning-Linear-Regression
-Deep Learning Linear Regression Model, with build, training, validation and training history.
+![Intro](https://user-images.githubusercontent.com/78474460/223439504-5a31c461-88d2-4313-be28-dc84e20483cb.PNG)
 
-![pic1Intro](https://user-images.githubusercontent.com/78474460/222957419-d5c13b8f-79c9-4b1d-9a54-69388b4489a4.PNG)
-# Build Function
-![pic2buildandscale](https://user-images.githubusercontent.com/78474460/222957425-f773046b-d26f-47cc-9aa9-7d00b153081f.PNG)
-# Training Function
-![pic3TrainModel](https://user-images.githubusercontent.com/78474460/222957439-87693585-15d6-4102-883b-888f7dd6b237.PNG)
-# Loss Function
-![pic4PlotLossCurve](https://user-images.githubusercontent.com/78474460/222957450-10da92a3-aab8-49fc-a879-545b578ffbee.PNG)
-# hyperparameters
-![pic5Hyperparameters](https://user-images.githubusercontent.com/78474460/222957457-8338ce45-629a-4e90-868e-eaa6290d4bb0.PNG)
-# Loss PLot
-![pic6FirstLoss](https://user-images.githubusercontent.com/78474460/222957465-bb477ac0-b5e2-423c-818c-f05b2c76659a.PNG)
-# Loss Plot
-![pic7LossPlot1](https://user-images.githubusercontent.com/78474460/222957476-ac19779f-59ef-4953-9dbd-d90c757205fe.PNG)
-# Shuffle function
-![pic8ShufleDataF](https://user-images.githubusercontent.com/78474460/222957489-ce83a538-22e0-4764-a745-a7cece4350af.PNG)
-# Loss Function with shuffle
-![pic9SecondLoss](https://user-images.githubusercontent.com/78474460/222957496-da259b21-3e3c-4ce2-8054-196112f05ac4.PNG)
-# Loss plot shuffle
-![pic10LossPlot](https://user-images.githubusercontent.com/78474460/222957507-07ee84a7-5e18-422b-9a93-2e8d6cc76d82.PNG)
+## Scaling Train and Test
+![scaleTheTrainandTest](https://user-images.githubusercontent.com/78474460/223439562-d4d9e98c-cd80-4eb7-a5fb-d18a28035f7d.PNG)
+## Model Building
+![3 Buildmodel](https://user-images.githubusercontent.com/78474460/223439674-be3ef6ff-6828-4bbe-aa59-f2f7cb8e7806.PNG)
+## Training Function
+![4 Train_modelFunction](https://user-images.githubusercontent.com/78474460/223439725-7af01120-3720-4b05-915b-a4b59ec71124.PNG)
+## Loss Curve Function
+![5 PlotLossCurve](https://user-images.githubusercontent.com/78474460/223439781-487a828a-b748-474c-aa05-c8ccf64e1c85.PNG)
+## Hyperparameters and Function call
+![6 HyperparametersandCalls](https://user-images.githubusercontent.com/78474460/223439829-eefb6898-2dc7-4a19-bf55-9ae10f9297ad.PNG)
+## Learning History Epochs
+![7 Learning](https://user-images.githubusercontent.com/78474460/223439890-7f3fda53-4293-4c2c-9444-29bea98ec721.PNG)
+## Loss Curve Plot
+![8 LossCurveValandTrain](https://user-images.githubusercontent.com/78474460/223439927-7961c915-2596-455e-99a3-6b99a11f8f55.PNG)
+## Reshufling add
+![9 ReshuflingDf](https://user-images.githubusercontent.com/78474460/223439971-6e1c615e-a8bc-4a3d-bd69-e1558971d5f4.PNG)
+## Learning
+![10 TrainingAfterReshuftle](https://user-images.githubusercontent.com/78474460/223440006-a24d6f97-2e7e-4e8d-b957-98e33b07bdfc.PNG)
+## Loss Curve PLot after Reshufling
+![11 plotLossAfterReshuftling](https://user-images.githubusercontent.com/78474460/223440054-679520e9-fdbc-4007-b33c-d3ce23e38955.PNG)
+## Thank you
